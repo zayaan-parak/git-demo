@@ -1,6 +1,6 @@
 #Demo Git Repository
 
-Hello Developers, this is my first time using git bash.
+Hello Developers, this is my first time using git bash. I am so excited to start using it.
 
 ##More About Me Below
 
